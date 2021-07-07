@@ -114,16 +114,16 @@ O layout da aplicação se encontra no Figma:
 ### Desktop
 
 <p align="center">
-  <img alt="Desktop Homepage" title="#Homepage" src="imagens/readme.png" width="400px" height="355px">
-  <img alt="Desktop Homepage" title="#Homepage" src="imagens/readme2.png" width="400px" height="355px">
+  <img alt="Desktop Homepage" title="#Homepage" src="images/readme.png" width="400px" height="355px">
+  <img alt="Desktop Homepage" title="#Homepage" src="images/readme2.png" width="400px" height="355px">
 </p>
 
 
 ### Mobile
 
 <p align="center">
-  <img alt="Mobile Homepage" title="#Homepage" src="imagens/readme3.png" width="200px" height="355px">
-  <img alt="Mobile Homepage" title="#Homepage" src="imagens/readme4.png" width="200px" height="355px">
+  <img alt="Mobile Homepage" title="#Homepage" src="images/readme3.png" width="200px" height="355px">
+  <img alt="Mobile Homepage" title="#Homepage" src="images/readme4.png" width="200px" height="355px">
 </p>
 
 ## Tech Used
