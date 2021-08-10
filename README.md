@@ -18,14 +18,6 @@ Implementação de um sistema de Quizzes em HTML, CSS e JavaScript! Nesse sistem
 ---
 
 ## Layout
-
-O layout da aplicação se encontra no Figma:
-
-<a href="https://www.figma.com/file/nCuPD1re0r4EAwNl7OCNvz/BuzzQuizz---Turma-02?node-id=0%3A1">
-  <img alt="Project Figma" src="https://img.shields.io/badge/%20Layout%20-Figma-%2304D361?style=for-the-badge&logo=appveyor">
-</a>
-
-
 ### Desktop
 
 <p align="center">
